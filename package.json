@@ -1,0 +1,15 @@
+{
+	"name": "discord-vercel-edge",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"discord-api-types": "^0.37.37",
+		"discord-verify": "^1.0.0",
+		"dotenv": "^8.6.0"
+	},
+	"devDependencies": {
+		"@types/node": "^18.15.11"
+	}
+}
